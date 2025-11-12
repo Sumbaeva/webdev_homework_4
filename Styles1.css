@@ -1,0 +1,43 @@
+/* Крупный заголовок */
+h1 {
+    font-size: 2em;
+    font-weight: bold;
+}
+
+/* Менее крупный заголовок */
+h2 {
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+/* Самый мелкий заголовок */
+h3 {
+    font-size: 1.17em;
+    font-weight: bold;
+}
+
+/* Пункты списка */
+ol {
+    list-style-type: decimal;
+}
+
+/* Ненумерованный список */
+ul {
+    list-style-type: disc;
+}
+
+/* Полужирный текст */
+.bold {
+    font-weight: bold;
+}
+
+/* Полужирный курсив */
+.bold-italic {
+    font-weight: bold;
+    font-style: italic;
+}
+
+/* Курсив */
+.italic {
+    font-style: italic;
+}
